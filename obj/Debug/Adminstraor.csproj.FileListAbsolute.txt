@@ -1,0 +1,12 @@
+C:\Users\Hazem\source\repos\PMS\bin\Debug\PMS.exe.config
+C:\Users\Hazem\source\repos\PMS\bin\Debug\PMS.exe
+C:\Users\Hazem\source\repos\PMS\bin\Debug\PMS.pdb
+C:\Users\Hazem\source\repos\PMS\obj\Debug\Adminstraor.csprojAssemblyReference.cache
+C:\Users\Hazem\source\repos\PMS\obj\Debug\PMS.Form1.resources
+C:\Users\Hazem\source\repos\PMS\obj\Debug\PMS.Properties.Resources.resources
+C:\Users\Hazem\source\repos\PMS\obj\Debug\Adminstraor.csproj.GenerateResource.cache
+C:\Users\Hazem\source\repos\PMS\obj\Debug\Adminstraor.csproj.CoreCompileInputs.cache
+C:\Users\Hazem\source\repos\PMS\obj\Debug\PMS.exe
+C:\Users\Hazem\source\repos\PMS\obj\Debug\PMS.pdb
+C:\Users\Hazem\source\repos\PMS\bin\Debug\Guna.UI2.dll
+C:\Users\Hazem\source\repos\PMS\obj\Debug\Adminstraor.csproj.CopyComplete
